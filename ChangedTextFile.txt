@@ -1,0 +1,129 @@
+Nuclear Physics Is The Study Of Atomic Nuclei And Nuclear Matter And Of The Fundamental Forces
+Responsible For Their Properties And Behaviour. It Is The Quest To Understand The Origin, Evolution,
+And Structure Of The Matter Of The Universe That Leads To Galaxies, Stars, And Planets, Including The
+Earth, The Terrestrial Environment, And Ourselves. Nuclear Physics Is Important To Society Because
+Of Its Extensive Applications For Energy, National Security, Health, Environmental Protection, And
+Industry. Countries Have Historically Supported Basic Nuclear Physics Research Both In Order To
+Advance The Scientific Field And To Develop The Expertise, Technology, And Trained Workforce That
+Are Needed For Their National Nuclear-technology Related Activities.
+This Report Presents The New Science Opportunities And Focuses On The Roles And Opportunities For
+International Collaboration In The Field Of Nuclear Science. The Field Has Seen The Emergence Of
+New Research Frontiers Over The Last Decades. They Arise From The New Insights And Developments
+In The Fundamental Underpinnings Of Nuclear Physics, As Well As From The Development Of Novel
+Tools That Allow Scientists To Push The Energy, Intensity, And Precision Frontiers. These Latter Tools
+Are Mostly In The Form Of New, Powerful Accelerators That Vastly Extend The Science Reach Over That
+Of Previous-generation Machines. These Accelerators Are At The Forefront Of Technology And
+Require A Substantial Expert Workforce For Development, Engineering, Construction, And Operation.
+They Are Also Quite Costly.
+The Scales Of The Technical Challenges And, Thus, The Necessary Human Expertise As Well As The Cost
+Strongly Suggest The Need To Consider Pooling Resources And Collaborating Broadly On An
+International Scale. This Need Is Not Fundamentally New To The Field Where, Over The Last Decade,
+Nuclear Research Has Been Characterized By Extensive International Collaborations, In Particular In
+Large-scale Experiments. The Tradition Of Free And Open Access To Major Nuclear Research Facilities
+Has Been A Key Factor Facilitating International Cooperation In The Field.
+Collaborations Range From Informal Groupings To Address Specific Research Topics To More Formal
+Ones Governed By Joint Proposals, Memoranda Of Understanding, Or, As Within The European Union
+Framework Programmes, Legal Contracts For R&D, Networking, And Facility Access. Yet The Size,
+Cost, And Timescales Of Future Facilities Make It Important To Consider Whether Cooperation And Coordination Needs To Go Beyond What Has Been Done Until Now, Both Geographically—on A Global
+Scale—and With Mechanisms For Co-ordinated Development, Construction, And Operation Of
+Selected Facilities And Their Research Programmes Overall. These Resource Issues Imply Joint
+Strategic Planning And Priority Setting Before A Project Is Launched. The Present Report Addresses
+These Issues And Discusses Venues To Establish Suitable Frameworks And Mechanisms For Creating
+Global Roadmaps For Strategic Planning And Priority Setting And For Co-ordination And Collaboration
+In Facility Construction And Utilization On A Regional And Global Scale.
+The Report First Describes The Field Of Nuclear Physics, Including The Science Opportunities,
+Facilities, Workforce, And Investment World-wide. The Scientific Vision For The Future Is
+Summarized By The Key Research Questions, As Developed By Various National And Regional
+Documents Of The Scientific Communities And Advisory Committees, And The New Capabilities That
+Are Planned To Address Them. A Few Examples Illustrate The Importance Of Nuclear Physics To Other
+Sciences And To Society. The Current Collaborative Structures And Strategic Planning Mechanisms
+Which Have Served The Field Well In The Past Are Discussed. For Future Major Facilities, The
+Challenges Of International Collaboration On Planning And Construction Of Large Scale Facilities And
+Projects To Reach The Scientific Vision Are Examined. Potential Mechanisms For Cooperation And
+Communication Are Suggested That Could Achieve A Co-ordinated Realization On An International Or,
+Possibly, Global Scale.
+The International Discussion Of These Questions Is Timely. The Last Such Discussion For This Field
+Was The OECD Global Science Forum (GSF) (formerly The Megascience Forum) Working Group
+On Nuclear Physics (1996-1999), Chaired By Dr. Bernard Frois Of France. Its Report Has Been
+Useful For The Last Round Of Large Investments In This Field. The Present Working Group On
+Nuclear Physics (WGNP) Was Established In 2006 For A Period Of Two Years. It Includes
+Representatives From 13 Countries (Australia, Belgium, Brazil, Canada, China, France, Germany,
+Italy, Japan, Korea, Norway, United Kingdom, And United States), The European Commission,
+Two Intergovernmental Organizations (European Organization For Nuclear Research [CERN],
+Geneva And The Joint Institute For Nuclear Research [JINR], Dubna) And Two Independent
+Scientific Organisations (IUPAP/WG9 And NuPECC). The WGNP Met Four Times During The Two
+Year Period To Generate This Report.
+Acting On Behalf Of The Global Science Forum, Its Bureau (the Chair And Vice-Chairs) Reviewed
+And Accepted This Report In May 2008.
+An Overview Of Nuclear Physics
+The Scientific Field Of Nuclear Physics
+Nuclear Physics Extends The Understanding Of The Atomic Nucleus In Two Directions: Towards
+Smaller Distances (by Investigating The Structure Of The Constituents Of Nuclei, I.e., Protons,
+Neutrons, And Mesons) And Towards Larger Distances (by Exploring The Very Limits Of Nuclear
+Stability And Existence). In Parallel, This Understanding Is Applied In Other Areas Of Scientific Study
+(e.g., In Astrophysics To Investigate The Synthesis Of Elements And The Production Of Energy In
+Stars) Or In Practical Applications (e.g., In Nuclear Medicine For Diagnostic And Therapeutic
+Purposes).
+The Nucleus Is Made Up Of Strongly Interacting Neutrons And Protons, Together Called Nucleons.
+The Nucleons Are Part Of The Larger Family Of Hadrons, Tightly Bound Systems Of Quarks, Antiquarks, And Gluons. Of The Many Hadrons That Exist, Only The Nucleons Are Stable (inside The
+Nucleus) And Make Up Almost All Visible Matter. Many Aspects Of The Physics Of Hadrons Are Still
+Not Well Understood: For Example, That Quark Masses Contribute Less Than 2% To The Mass Of A
+Figure 1: The Landscape Of Nuclear Research, Where Each Box, Characterized By The Number
+Of Protons And Neutrons, Represents A Nucleus For Which Some Information Is Known. The
+Labels And Colours Indicate The Theoretical Approaches That Are Typically Used To Describe
+These Nuclei.
+Nucleon, That Quark Spins Make Up Only About 1/3 Of The Spin Of A Proton, And That Free Quarks Are
+Never Observed. Solutions To These Puzzles Are Needed To Obtain A Complete Understanding Of The
+Strong Force At Nuclear Distances And Of The Behaviour Of Hadronic Matter Under Extreme
+Conditions Of Temperature And Density. Other Key Questions Are The Nature Of The Phase Transition
+Which Occurred After The Big Bang, When The Quarks And Gluons, Originally Roaming Free,
+Condensed Into Hadronic Matter And The Nature Of The Unconfined Phase. Experimentally, These
+Latter Questions Are Being Addressed By The Study Of Relativistic Heavy Ion Collisions.
+Towards The Larger Scale, The Way In Which Neutrons And Protons Combine To Form Different Nuclei
+Is A Central Issue In The Field. Why Do Some Nuclei Exist And Not Others? Why Do They Exhibit
+Different Decay Modes, And Why Do They Absorb Energy In Different Ways? This Aspect Of Nuclear
+Physics Research Has Been Revolutionized In Recent Years With The Development Of The Technology
+To Produce Beams Of Radioactive Nuclei. These Are Beams Of Artificially-produced Nuclei With
+Unusual Properties (for Example, Large Excesses Of Neutrons Or Protons) That Make Them Unstable
+(hence, ―radioactive‖). Theoretical Models Make Testable Predictions About These Exotic Nuclei.
+Using Radioactive Beams, Scientists Are Now Able To Deliberately Induce And Study Reactions, A Key
+Technique In Nuclear Physics, Directly On Nuclei Other Than The Stable Ones That Nature Provides.
+It Is Already Known From Preliminary Studies That New Phenomena Emerge As Experiments Move
+Beyond The Limited Realm Of The Naturally-occurring Stable Nuclei. The Next Generation Of Nuclear
+Physics Facilities Will Enable Further Exploration To The Limits Of Nuclei With An Excess Of Protons
+And Well Out Into The Unknown Nuclear Landscape Of Excess Neutrons, Where The Ultimate Limit That
+Nature Sets On Neutron Binding Is Still A Subject Of Much Speculation. Tied Into This Effort Is The
+Exciting Investigation Of The Ultimate Limit Of Nuclear Mass. Pioneering Studies Have Already
+Pushed Well Beyond Uranium, The Heaviest Naturally-occurring Nucleus. The Tantalizing Prospect
+Still Exists To Reach The Theoretically Predicted ―island Of Stability‖ Where ―super-heavy‖ Nuclei
+May Exist. If Such Novel Nuclei Can Be Produced In The Laboratory, Their Atomic And Chemical
+Properties Would Be Of Enormous Interest.
+Nuclear Astrophysics Is A Multi-disciplinary Activity Which Involves Nuclear Physics, Astrophysics,
+And Astronomy. The Goal Is To Understand The Origin Of The Naturally-occurring Elements And The
+Energy Generation Processes That Power Astrophysical Objects. While It Has Been Possible For
+Some Time To Study The Key Nuclear Reactions Which Occur In Stars Like The Sun (albeit Usually At
+Energies Above Those Relevant For Stars), It Has Not Been Possible To Study Many Of The Reactions
+Involved In Extremely Powerful Explosive Processes In Nature, Such As Novae, X-ray Bursters, And
+Supernovae. In These Violent Environments, Key Reactions Occur Between Unstable Nuclei. Before
+The Development Of Radioactive Beams, Such Reactions Simply Could Not Be Studied In The
+Laboratory.
+Current Nuclear Physics Efforts And Facilities
+Tools Of Nuclear Physics
+Most Investigations Of The Structure Of Nucleons And Nuclei Involve The Use Of Accelerators That
+Generate High Energy Beams Of Particles Which Strike A Target Or Collide Into Each Other.
+Sophisticated Detectors Can Separate Out And Identify The New Particles Or Nuclei Produced In The
+Collisions. Some Investigations Require Beams Of Neutrons And Neutrinos; For These, Reactor
+Sources May Also Be Used. As The Field Has Developed, So Has The Complexity Of The Accelerator
+Facilities And Detectors. Many Modern Accelerator Facilities Are Too Large For University Groups
+And, Instead, Are Housed In National Research Centres Or Laboratories. These Facilities Attract Many
+International Users, Individually Or In Groups. Similarly, The Detectors Are So Complex That Their
+Cost And Technical Demands Often Require The Financing And Expertise From Multiple International
+Sources For Construction And Operation.
+The Recent IUPAP Report, ―Research Facilities In Nuclear Physics,‖ Prepared By The IUPAP/WG9
+On International Cooperation In Nuclear Physics
+(http://www.jlab.org/~sbrown/Handbook_rev3.pdf), Provides A Summary Of Current Research
+Activities And A Comprehensive Compendium Of The Facilities With External Users Groups
+Worldwide. This Inventory Of Resources Is Continually Changing, As New Facilities Are Opened And
+Existing Ones Are Upgraded Or Closed. Particular Features Of The Decade Since The Last OECD Report
+Have Been The Steady Shift Towards Larger Facilities And The Increasing Number Of Facilities That
+Produce Radioactive Beams.
